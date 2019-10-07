@@ -2,7 +2,7 @@
   "name": "gh-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://xxx.github.io/theApp",
+  "homepage": "https://andrew781026.github.io/gh-page-test",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
